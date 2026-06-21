@@ -45,6 +45,6 @@ buttons.forEach(button => {
     current = e.currentTarget.getAttribute("finger");
     // Mousemenu.updateFinger();
     updateFingerButtons();
-button.addEventListener('click.)
+
   })
 })
